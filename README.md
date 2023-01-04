@@ -1,2 +1,4 @@
-# web-340
-node
+# WEB 340 Node.js
+## Contributors
+* Eric McCool
+* Professor Richard Krasso
